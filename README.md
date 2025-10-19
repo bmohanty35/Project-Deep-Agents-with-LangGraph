@@ -10,16 +10,16 @@ This course will show how to implement these patterns from scratch using LangGra
 
 ### Project Overview
 
-This repository contains five progressive notebooks that teach you to build advanced AI agents:
+This repository contains five progressive notebooks to build advanced AI agents:
 
 ### `0_create_agent.ipynb` -
-Learn how to use the create_agent component. This component,
+This component,
 - implements a ReAct (Reason - Act) loop that forms the foundation for many agents.
 - is easy to use and quick to set up.
 - serves as the
 
 ### `1_todo.ipynb` - Task Planning Foundations
-Learn to implement structured task planning using TODO lists. This notebook introduces:
+This notebook introduces:
 - Task tracking with status management (pending/in_progress/completed)  
 - Progress monitoring and context management
 - The `write_todos()` tool for organizing complex multi-step workflows
@@ -48,4 +48,5 @@ Combine all techniques into a production-ready research agent:
 
 
 Each notebook builds on the previous concepts, culminating in a sophisticated agent architecture capable of handling real-world research and analysis tasks. 
+
 
